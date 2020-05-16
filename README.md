@@ -5,6 +5,15 @@ Repositorio para material de divulgación del Grupo Halley UIS
 | -------------  | ------------ | ----- |
 | ArchivoTest    | divulgación, halley | [Enlace](https://github.com/halleyUIS/materialDivulgacion) |
 | POSTER1 Experimento Arcoiris con Agua    | Física, óptica, atmósfera, luz | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/infografias/POSTER1.pdf) |
+| La_luz    | Física, óptica, luz, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/La_luz.pdf) |
 | Deteccion_exoplanetas | exoplanetas, animación | [Enlace](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/)|
-
+| Exoplanetas | exoplanetas, TRAPPIS-1, presentación | [Enlace](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/)|
+| Astronomia_posición | Coordenadas, posición, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/tree/master/presentaciones/Astronomia_posición.pdf)|
+| CUERPOS_MENORES_DEL_SISTEMA_SOLAR | asteroides, cometas, presentación| [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/CUERPOS_MENORES_DEL_SISTEMA_SOLAR.pdf)|
+| De_la_tierra_a_la_luna | luna, apolo11, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/De_la_tierra_a_la_luna.pdf)|
+| Movimientos_tierra | movimoento tierra, estaciones, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/Movimientos_tierra.pdf)|
+| Paralaje_reloj_solar | instrumentos clasicos, presentación| [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/Paralaje_reloj_solar.pdf)|
+| Sistema_solar | sistema solar, planetas, asteroides, formación, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/Sistema_solar.pdf)|
+| TELESCOPIOS | instrumentación, tipos, funcionamiento, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/TELESCOPIOS.pdf)|
+| estrellas | Diagrama HR, observación, formación, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/estrellas.pdf)|
 
