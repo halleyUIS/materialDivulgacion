@@ -16,4 +16,7 @@ Repositorio para material de divulgación del Grupo Halley UIS
 | Sistema_solar | sistema solar, planetas, asteroides, formación, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/Sistema_solar.pdf)|
 | TELESCOPIOS | instrumentación, tipos, funcionamiento, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/TELESCOPIOS.pdf)|
 | estrellas | Diagrama HR, observación, formación, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/estrellas.pdf)|
-
+| Clase_Astro_estrellasysol | estrellas, sol, fenómenos solares, luz, presentación | [Enlace](https://onedrive.live.com/view.aspx?resid=50C73C589EF936C0!798&ithint=file%2cpptx&authkey=!AEuJp94SS3cnla8)|
+| REFRACCIÓN ASTRONÓMICA | atmósfera, óptica, luz, refracción, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/REFRACCIÓN_ASTRONÓMICA.pptx)|
+| Clima espacial | clima espacial, auroras, manchas solares, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/Clima_espacial.pptx)|
+| Sistema Solar | sistema solar, planetas, formación, luna, presentación | [Enlace](https://github.com/halleyUIS/materialDivulgacion/blob/master/presentaciones/Sistema_Solar.pptx)|
